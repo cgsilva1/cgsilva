@@ -348,7 +348,6 @@
     background: var(--onyx);
     font-size: var(--fs-8);
     font-weight: var(--fw-300);
-    width: max-content;
     padding: 3px 12px;
     border-radius: 8px;
   }
@@ -1246,8 +1245,8 @@
      * #PORTFOLIO, BLOG 
      */
   
-    .project-img,
-    .blog-banner-box { height: auto; }
+    /* .project-img,
+    .blog-banner-box { height: auto; } */
   
   }
   
